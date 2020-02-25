@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class Adactin {
+public class Adactin12 {
 
 	public static void main(String[] args) {
 		System.setProperty("webdriver.chrome.driver","E:\\program files\\selenium\\chromedriver.exe");
